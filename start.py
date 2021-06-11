@@ -3,8 +3,8 @@ import subprocess
 from logging import DEBUG, INFO, basicConfig, getLogger, warning
 basicConfig(format="[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s", level=INFO)
 LOGS = getLogger("Helper")
-os.system("git clone https://github.com/DARK-COBRA/DARKCOBRA darkcobra")
-os.chdir("darkcobra")
+os.system("git clone https://github.com/Imteyazking/KING-FIGHTER-BOT king fighter")
+os.chdir("KINGFIGHTER")
 process = subprocess.Popen(
         ["python3", "-m", "userbot"],
         stdout=subprocess.PIPE,
