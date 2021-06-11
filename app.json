@@ -1,7 +1,7 @@
 {
   "name": "⚔️⚔️𝕂𝕀ℕ𝔾 𝔽𝕀𝔾ℍ𝕋𝔼ℝ 𝔹𝕆𝕋⚔️⚔️",
   "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Imteyaz_king) Made with ❤ For Support Join @King_fighter_Bot_support ",
-  "logo": "https://telegra.ph/file/bd545d20b8e7e436f414c.jpg ",
+  "logo": "https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -46,7 +46,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
+      "value": "https://telegra.ph/file/bd545d20b8e7e436f414c.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -56,7 +56,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/ad8430d78a8e1adb3d8ea.jpg",
+      "value": "https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
