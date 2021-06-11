@@ -27,10 +27,10 @@ global ghanti
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/6aa39732748ed7c319943.jpg"
-file2 = "https://telegra.ph/file/a6d72504bc09e71484a54.jpg"
-file3 = "https://telegra.ph/file/3cdbede1d5d85aa2d50fc.jpg"
-file4 = "https://telegra.ph/file/3dae01973943e8b28c931.jpg"
+file1 = "https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg"
+file2 = "https://telegra.ph/file/b771ce7a2beef660dc504.jpg"
+file3 = "https://telegra.ph/file/bd545d20b8e7e436f414c.jpg"
+file4 = "https://telegra.ph/file/c26afd9117c2a31dce879.jpg"
 """ =======================CONSTANTS====================== """
 
 
