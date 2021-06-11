@@ -8,7 +8,7 @@ from userbot import CMD_HELP
 from userbot import AUTONAME
 
 
-DEFAULTUSER = str(AUTONAME) if AUTONAME else "DARK-COBRA"
+DEFAULTUSER = str(AUTONAME) if AUTONAME else "KING_FIGHTER"
 
 @borg.on(admin_cmd(pattern=r"deploy"))
 
@@ -30,7 +30,7 @@ async def _(event):
 
     animation_chars = [
         
-            "**Heroku Connecting To Latest Github Build (Hellboi-atul/DARK COBRA)**",
+            "**Heroku Connecting To Latest Github Build (Imteyazking/KING FIGHTER)**",
             "**Build started by user** **{DEFAULTUSER}**",
             "**Deploy** `535a74f0` **by user** **{MY BOSS}**",
             "**Restarting Heroku Server...**",
