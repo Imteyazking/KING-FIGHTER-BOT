@@ -30,7 +30,7 @@ async def get_readable_time(seconds: int) -> str:
     return up_time
 
 
-async def darkmusic(dark , QUALITY):
+async def kingfightermusic(King , QUALITY):
   search = dark
   headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
   html = requests.get('https://www.youtube.com/results?search_query='+search, headers=headers).text
@@ -45,8 +45,8 @@ async def darkmusic(dark , QUALITY):
   os.system(command)
 
 
-async def darkmusicvideo(dark):
-    search = dark
+async def kingmusicvideo(king):
+    search = king
     headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
     html = requests.get('https://www.youtube.com/results?search_query='+search, headers=headers).text
     soup = BeautifulSoup(html, 'html.parser')
